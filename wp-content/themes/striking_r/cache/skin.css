@@ -17,7 +17,7 @@ body {
 #site_description {	color: #444444;	font-size: 11px;
 }
 #logo, #logo_text {
-	bottom: -16px;
+	bottom: -12px;
 }
 #navigation .menu > li.hover > a,
 #navigation .menu > li.hover > a:active,
@@ -401,4 +401,6 @@ ul.vertical_tabs li a.current, ul.vertical_tabs a:hover  {	background-color: #fe
 .woocommerce-page #respond input#submit.alt:hover, 
 .woocommerce #content input.button.alt:hover, 
 .woocommerce-page #content input.button.alt:hover {	background-color: #3cabce;}
-
+#navigation #menu-main .menu-item a{
+padding: 10px 12px;
+}
